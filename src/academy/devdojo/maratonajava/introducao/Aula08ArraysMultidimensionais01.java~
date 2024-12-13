@@ -19,7 +19,10 @@ public class Aula08ArraysMultidimensionais {
             }
         }
 
-        for(int[] dia : dias);
-            for (int num : dia);
+        for(int[] dia: dias) {
+            for (int num : dia) {
+                System.out.println(num);
+            }
+        }
     }
 }
